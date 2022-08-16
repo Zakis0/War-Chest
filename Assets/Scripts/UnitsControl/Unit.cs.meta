@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: af26125010034d3859dfd844398605c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - movePoint: {fileID: 1354285973702655218, guid: 493e49b62de715785a964c02157b87b0, type: 3}
+  - controlPoint: {fileID: 1354285973702655218, guid: cbee797dc14fb15679ec9ede45d128fc, type: 3}
+  - attackPoint: {fileID: 1354285973702655218, guid: e0970dfc95b8611a693045aad0835f12, type: 3}
+  - tacticPoint: {fileID: 1354285973702655218, guid: a9ed04dfb228226e4852ffd7b21ddd29, type: 3}
+  - fun: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

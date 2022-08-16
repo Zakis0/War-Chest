@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ff1bfdddfc8b63399ac5eb143a1bb7b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - movePoints: {fileID: 164858038063008861, guid: e5891e7845831ef91b28aa37604505a5, type: 3}
+  - point: {fileID: 1354285973702655218, guid: 493e49b62de715785a964c02157b87b0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

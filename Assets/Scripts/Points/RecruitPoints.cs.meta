@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 0688f7feb5cc1487f89b4c211f28addf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _archer: {fileID: 4498089729971092853, guid: d8a6f29ee729251f5ba7fa80e31b6f68, type: 3}
+  - _bannerman: {fileID: 4498089729971092853, guid: a44deb84b8f7156f59163944c28d0ff1, type: 3}
+  - _berserker: {fileID: 4498089729971092853, guid: ba62a6edc5d8579d689ad4f4f5d965b7, type: 3}
+  - _bishop: {fileID: 4498089729971092853, guid: 1427d26127436835f9c3132373114c40, type: 3}
+  - _cavalry: {fileID: 4498089729971092853, guid: c4e4b52a493d4b429b3c72f4adbc93f6, type: 3}
+  - _crossbowman: {fileID: 4498089729971092853, guid: 703e2dd376811ece0829689e999b5188, type: 3}
+  - _earl: {fileID: 4498089729971092853, guid: a5be845cb24cd080ebf235604637f0cd, type: 3}
+  - _ensign: {fileID: 4498089729971092853, guid: fb846447b78d0ced4bb954adf3b9aea6, type: 3}
+  - _footman: {fileID: 4498089729971092853, guid: e555e54d2e1a40ed5ba6c4f1b88962eb, type: 3}
+  - _herald: {fileID: 4498089729971092853, guid: 5cc4b547fd66941f88f11443cd4abefb, type: 3}
+  - _knight: {fileID: 4498089729971092853, guid: ff9edd061f629c1a1847636fd74f39e0, type: 3}
+  - _lancer: {fileID: 4498089729971092853, guid: bba2c8802a0146f39b382054bdb1c4e2, type: 3}
+  - _lightCavalry: {fileID: 4498089729971092853, guid: e5891e7845831ef91b28aa37604505a5, type: 3}
+  - _marshal: {fileID: 4498089729971092853, guid: e8c42ceffebbe4fe39252ea8f8e28a23, type: 3}
+  - _mercenary: {fileID: 4498089729971092853, guid: a99901bcf2ca91795af1f40c776dd92e, type: 3}
+  - _pikeman: {fileID: 4498089729971092853, guid: 0a98136799b0cf1909571dfb9c9b6d29, type: 3}
+  - _royalGuard: {fileID: 4498089729971092853, guid: 7e1ea63c334c46a55831bc775d0f69ac, type: 3}
+  - _sapper: {fileID: 4498089729971092853, guid: 4c1f26636950d269fb83f369e3d5cc10, type: 3}
+  - _scout: {fileID: 4498089729971092853, guid: 4d1b6a2355a1747288467d83db3b5d9a, type: 3}
+  - _siegeTower: {fileID: 4498089729971092853, guid: e536ac51b73b2651dbbc5cc853501768, type: 3}
+  - _swordsman: {fileID: 4498089729971092853, guid: b2102a40c8fee3538a0ed3c8941617e2, type: 3}
+  - _trebuchet: {fileID: 4498089729971092853, guid: 3808ca1438d0780da8d35d0be750a68a, type: 3}
+  - _warriorPriest: {fileID: 4498089729971092853, guid: 0d7b0c4320954923389c19d4c830ac5e, type: 3}
+  - _warWagon: {fileID: 4498089729971092853, guid: eb3cfd43cf1e9a41d983f38a6229408b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
